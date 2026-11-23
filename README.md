@@ -1,5 +1,7 @@
 # 🎯 Guía rápida: AI Job Search — la búsqueda de empleo que corre en tu máquina (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 [🇪🇸 Español](#-español) · [🇵🇹 Português](#-português) · [🇬🇧 English summary](#-english-summary)
 
 Una sola página para usar **AI Job Search** (de MadsLorentzen): el framework sobre Claude Code que evalúa ofertas, adapta tu CV a cada puesto, escribe la carta de presentación y te prepara la entrevista. Todo corre en tu ordenador y tus datos quedan en archivos tuyos.
